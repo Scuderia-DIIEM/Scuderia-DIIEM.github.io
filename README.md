@@ -1,4 +1,4 @@
-# University Project Landing Page
+# Scuderia DIIEM Project Landing Page
 https://scuderia-diiem.github.io/
 A modern, beautiful landing page built with Next.js and TypeScript, configured for static site generation.
 
